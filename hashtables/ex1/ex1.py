@@ -9,9 +9,12 @@ from hashtables import (HashTable,
 def get_indices_of_item_weights(weights, length, limit):
     ht = HashTable(16)
 
-    """
-    YOUR CODE HERE
-    """
+    # iterate through the list weights 
+    # declare the [key, value] pair 
+    # check if hash table contains limit weight 
+    # if it does check the index of the limit weight 
+    # function should return None if [key, value] does not exist in the list 
+    
 
     return None
 
